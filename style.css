@@ -1,0 +1,77 @@
+body{
+	background-color: #ACEEDA;
+	padding: 100px;
+}
+
+h1{
+	color: #D90368;
+	text-align: center;
+}
+
+h2{
+	color: #291720;
+	text-align: center;
+}
+
+
+img{
+	width: 400px;
+	height: 200px;
+	object-fit: cover;
+}
+
+img{
+	width: 400px;
+	height: 200px;
+	object-fit: cover;
+}
+
+
+.Barracuda {
+	width: 400px;
+	height: 500px;
+	object-fit: cover;
+}
+
+.Grizzly {
+	width: 400px;
+	height: 500px;
+	object-fit: cover;
+}
+
+.CarnavalCafé {
+	width: 400px;
+	height: 500px;
+	object-fit: cover;
+}
+
+div {
+	background-color: #D90368
+	padding-right: 50px;
+	padding-left: 50px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	border: 15px solid #D90368;
+}
+
+.navigation-aligned {
+	display: flex;
+	justify-content: space-around;
+	padding: 30px;
+}
+
+a {
+	color: #291720;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #001524;
+	font-size: 18px;
+	font-weight: bolder;
+}
+
+.element-trois {
+	text-align: center;
+}
+
